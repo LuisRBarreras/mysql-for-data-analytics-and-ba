@@ -1,0 +1,9 @@
+
+Goal: to help users project their data by
+      offering a hube variety of data visualization tools 
+      
+      
+Tableau is not the best place to complet the pre-processing step 
+Pre-processing on the database level 
+
+
