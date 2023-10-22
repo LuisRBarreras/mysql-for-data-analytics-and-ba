@@ -4,7 +4,8 @@
 */
 
 SELECT
-	e.gender, d.dept_name,
+	e.gender, 
+	d.dept_name,
 	ROUND(AVG(s.salary),2) as salary,
 	YEAR(s.from_date) as calendar_year
 FROM 
